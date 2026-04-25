@@ -1,5 +1,9 @@
 //  Bracelet Bar, v1.0.0
 //  By ClassicAdam, 2026
+//  https://github.com/ClassicAdam/Bracelet_Bar_Generator
+//  https://www.printables.com/@ClassicAdam
+//  https://makerworld.com/@ClassicAdam
+
 
 /*
     This file is part of ClassicAdam's Bracelet Bar.
